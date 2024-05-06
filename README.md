@@ -98,3 +98,6 @@ if __name__ == '__main__':
     results = modelv8n.predict(source=image_dir, name=save_dir, hide_labels=True, save_txt=True, save_conf=True, save_crop=True, save=True)
 ```
 In this example, the model_weights_path is set to 'runs/detect/yolov8n4/weights/best.pt' and the image_dir is set to 'datasets/inference/images'. Adjust these paths to match the location of your weights file and image directory. The save_dir is set to "yolov8n_infer", adjust this to your preferred save directory.
+
+# Add_id_to_labels.py
+Add the car ID to the labels that are generated from the YOLOv8 inference result.
