@@ -107,4 +107,5 @@ Examine the cropped images, which are generated from the YOLOv8 inference result
 
 | ----------- | ----- |
 | Description | resnet101_ibn_a | resnext101_ibn_a | se_resnet101_ibn_a | densenet169_ibn_a |
-| Image | ![](https://github.com/Yang-Shun-Yu/AICUP_tool/blob/master/resnet101_ibn_a_modified_car/1016_150000_151900_0_001645_cam.jpg) | ![](url_of_your_image_here) | ![](url_of_your_image_here) | ![](url_of_your_image_here) |
+| Image cam | ![](https://github.com/Yang-Shun-Yu/AICUP_tool/blob/master/resnet101_ibn_a_modified_car/1016_150000_151900_0_001645_cam.jpg) | ![](url_of_your_image_here) | ![](url_of_your_image_here) | ![](url_of_your_image_here) |
+| Image crop | ![](https://github.com/Yang-Shun-Yu/AICUP_tool/blob/master/resnet101_ibn_a_modified_car/1016_150000_151900_0_001645.jpg) | ![](url_of_your_image_here) | ![](url_of_your_image_here) | ![](url_of_your_image_here) |
