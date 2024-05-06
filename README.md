@@ -71,7 +71,7 @@ if __name__ == '__main__':
 
 In this example, the label_folder is set to 'detect/yolov8n_infer/labels'. Adjust this path to match the location of your label files. The example retrieves detections for a specific key and filters all detections by a specific camera ID ('0' in this case).
 
-# YOLO Object Detection with Ultralytics
+# YOLO Object Detection with Ultralytics(yolo_inference.py)
 
 This code demonstrates how to use the Ultralytics YOLO implementation for object detection.
 
