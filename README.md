@@ -100,4 +100,7 @@ if __name__ == '__main__':
 In this example, the model_weights_path is set to 'runs/detect/yolov8n4/weights/best.pt' and the image_dir is set to 'datasets/inference/images'. Adjust these paths to match the location of your weights file and image directory. The save_dir is set to "yolov8n_infer", adjust this to your preferred save directory.
 
 # Add_id_to_labels.py
-Add the car ID to the labels that are generated from the YOLOv8 inference result.
+Add the car ID to the labels that are generated from the YOLOv8 inference result
+
+# Heat_map.py
+Examine the cropped images, which are generated from the YOLOv8 inference results, more closely. Use PyTorch's Grad-CAM to generate the heatmap and create smaller bounding boxes.
