@@ -104,3 +104,7 @@ Add the car ID to the labels that are generated from the YOLOv8 inference result
 
 # Heat_map.py
 Examine the cropped images, which are generated from the YOLOv8 inference results, more closely. Use PyTorch's Grad-CAM to generate the heatmap and create smaller bounding boxes.
+
+| ----------- | ----- |
+| Description | Your description here |
+| Image | ![](url_of_your_image_here) |
